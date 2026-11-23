@@ -1,0 +1,6 @@
+data/
+__pycache__/
+*.pyc
+cd_cache/
+zns1413.pdf
+.DS_Store
